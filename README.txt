@@ -1,4 +1,4 @@
-MEWP READY — PHONE REVIEW APP 0.21.0
+MEWP READY — PHONE REVIEW APP 0.22.0
 
 This is an installable web app (PWA), not an APK or an App Store download.
 It contains 19 machine drafts and their pictures. No technical
