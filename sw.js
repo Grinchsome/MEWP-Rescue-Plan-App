@@ -1,5 +1,5 @@
 // A release is installed atomically; the old release stays active until requested.
-const RELEASE = '0.20.1-32feb0ae02ce';
+const RELEASE = '0.20.2-58f0822921b8';
 const PREFIX = 'mewp-ready-' + encodeURIComponent(self.registration.scope) + '-';
 const CACHE = PREFIX + RELEASE;
 const FILES = ['./', './index.html', './pwa.js', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/maskable-512.png', './icons/apple-touch-icon.png'];
