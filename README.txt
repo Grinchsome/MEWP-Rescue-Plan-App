@@ -1,8 +1,8 @@
-MEWP READY — PHONE REVIEW APP 0.18.2
+MEWP READY — PHONE REVIEW APP 0.20.0
 
 This is an installable web app (PWA), not an APK or an App Store download.
-It contains the 11 existing machine drafts and their pictures. No technical
-approval is implied. The HSEQ review checklist has not been added.
+It contains 19 machine drafts and their pictures. No technical
+approval is implied. Professional verification remains outstanding.
 
 UPLOAD TO GITHUB PAGES — NO BUILD OR CODING REQUIRED
 
